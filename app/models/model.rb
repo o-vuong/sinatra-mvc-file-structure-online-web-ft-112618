@@ -9,4 +9,8 @@ class Dog
 
   end
 
+  def self.all
+    Dogs
+    
+  end
 end
